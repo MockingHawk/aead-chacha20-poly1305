@@ -1,6 +1,6 @@
 # AEAD_CHACHA20_POLY1305
 
-This is an implementation of AEAD_CHACHA20_POLY1305, following rfc8439 protocol.
+This is an implementation of AEAD_CHACHA20_POLY1305, following RFC8439 protocol. This project was made for a computer science course on cryptography, and should not be considered as secure. It was not designed to be robust against side-channel attacks.
 
 ## Installation
 
